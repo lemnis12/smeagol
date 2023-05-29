@@ -11,7 +11,7 @@ setuptools.setup(
     packages=["smeagol"], 
     install_requires=["golum",
                       "hanabi"],
-    extra_requires = {"Jax" : "jax"},
+    extras_require = {"faster_model_selection" : "jax"},
     classifiers=["Development Status :: 3 - Alpha",
                  "Intended Audience :: GW lensing community",
                  "Topic :: Strongly lensed Gravitational-wave parameter estimation",
