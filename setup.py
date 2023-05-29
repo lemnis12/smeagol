@@ -13,8 +13,8 @@ setuptools.setup(
                       "hanabi"],
     extras_require = {"faster_model_selection" : "jax"},
     classifiers=["Development Status :: 3 - Alpha",
-                 "Intended Audience :: GW lensing community",
-                 "Topic :: Strongly lensed Gravitational-wave parameter estimation",
+                "Intended Audience :: Science/Research",
+                 "Topic :: Scientific/Engineering :: Physics",
                  "Programming Language :: Python :: 3.8",
                  "Programming Language :: Python :: 3.9"],
     python_requires = ">=3.8"
