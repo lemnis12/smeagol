@@ -9,4 +9,4 @@ If you use GOLUM + Smeagol for selection effects, please cite
 - This repo: @misc{janquart:2023, author = "Janquart, Justin", title="{Smeagol: a companion package to GOLUM for selection effects}", year={2023}, howpublished={\url{https://github.com/lemnis12/smeagol}}}
 
 ### Install package
-This package can be installed by running `pip install smeagol-gw`
+This package can be installed by running `pip install smeagol-gw` **after** having installed `hanabi` by cloning its [git](https://github.com/ricokaloklo/hanabi) and running `pip install .` in the cloned repo.
