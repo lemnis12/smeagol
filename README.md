@@ -7,3 +7,6 @@ If you use GOLUM + Smeagol for selection effects, please cite
 - The [GOLUM method paper 1](https://arxiv.org/pdf/2105.04536.pdf) and [2](https://arxiv.org/pdf/2304.12148.pdf)
 - The [hanabi paper](https://arxiv.org/pdf/2104.09339.pdf)
 - This repo: @misc{janquart:2023, author = "Janquart, Justin", title="{Smeagol: a companion package to GOLUM for selection effects}", year={2023}, howpublished={\url{https://github.com/lemnis12/smeagol}}}
+
+### Install package
+This package can be installed by running `pip install smeagol-gw`
